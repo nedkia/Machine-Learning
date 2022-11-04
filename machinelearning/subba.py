@@ -1,11 +1,8 @@
 import random
 import csv
   
-
-
-
 # field names 
-fields = ['First Name','Last Name','Sex','Race', 'Age','Hair Color',  'Severity of Crime','Veredict'] 
+fields = ['First Name','Last Name','Sex','Race', 'Age','Hair Color', 'Severity of Crime','Veredict'] 
     
 # data rows of csv file 
 size = input("input amount of people you want to generate\n")
@@ -38,3 +35,4 @@ with open('data', 'w') as f:
         rows = [ [name, lname,sex,random.choice(attr2), random.choice(attr3), random.choice(attr4),random.choice(attr5),random.choice(attr6)]]   
         write.writerows(rows)
         counter = counter + 1
+
