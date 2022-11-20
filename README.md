@@ -15,3 +15,7 @@ With current technology, a machine is only able to learn based on data it is pro
 Therefore most machine learning biases can be interpreted in two ways: Either the algorithm was designed to exclude or "learn" in a biased way or the data that is being provided isn't accurate or inclusive enough for the machine to properly draw conclusions from. For example if someone programs a machine to find the best way to build a house but the data being analyzed only contains instructions on how to build apartments. The machine will learn the best way to build an apartment and claim that it is the best way to build a house because the programmer did not feed the machine data on all kinds of houses. 
 
 Biases like this happen all the time and they are usually not done with malicious intent. Programmers focus more on creating a working machine and may not take into account that this machine my be unethical or biased. 
+
+For this experiment I will simulate an algorithm which analyzes crime rates and the human features that are associated with different levels of crime. 
+
+I will first create a python script that reads in various user attributes as well as the severity of the crime that they committed and if they were found guilty or innocent of the crime. After the script is done analysing the data it will draw conclusions and make predictions on which attributes of a person is correlated to more crime. The purpose of this simulation is to feed the algorithm various data sets and examine how the algorithm learns differently based on the data it is being fed. 
