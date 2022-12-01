@@ -18,8 +18,8 @@ Biases like this happen all the time and they are usually not done with maliciou
 
 For this experiment I will simulate an algorithm which analyzes crime rates and the human features that are associated with different levels of crime. 
 
-I will first create a python script that reads in various user attributes as well as the severity of the crime that they committed and if they were found guilty or innocent of the crime. After the script is done analysing the data it will draw conclusions and make predictions on which attributes of a person is correlated to more crime. The purpose of this simulation is to feed the algorithm various data sets and examine how the algorithm learns differently based on the data it is being fed. 
+I will first create a python script that reads in various user attributes as well as the severity of the crime that they committed and if they were found guilty or innocent of the crime. After the script is done analysing the data it will draw conclusions and make predictions on which attributes of a person is correlated to more crime. The purpose of this simulation is to feed the algorithm various data sets and examine how the algorithm learns differently based on the data it is being fed. I plan to feed the algorithm various kinds of data with different levels of biases. 
 
-In real life
+In the technical industry, real life algorithms use data like this to make real world decisions which means that its very important that we feed the algorithms data that is inclusive and nonbiased. 
 
 
