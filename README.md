@@ -19,3 +19,7 @@ Biases like this happen all the time and they are usually not done with maliciou
 For this experiment I will simulate an algorithm which analyzes crime rates and the human features that are associated with different levels of crime. 
 
 I will first create a python script that reads in various user attributes as well as the severity of the crime that they committed and if they were found guilty or innocent of the crime. After the script is done analysing the data it will draw conclusions and make predictions on which attributes of a person is correlated to more crime. The purpose of this simulation is to feed the algorithm various data sets and examine how the algorithm learns differently based on the data it is being fed. 
+
+In real life
+
+
