@@ -71,4 +71,5 @@ Indicator which will output a progress message for every 50 humans generated
 ![image](https://user-images.githubusercontent.com/78882341/205677410-6a3a953d-c94d-427c-a7ee-4929deaa26af.png)
 
 #Final output messages...
+
 ![image](https://user-images.githubusercontent.com/78882341/205677539-1f038eeb-00f3-44a7-9204-45b2db8e2f22.png)
