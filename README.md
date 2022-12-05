@@ -20,7 +20,9 @@ For this experiment I will simulate an algorithm which analyzes crime rates and 
 
 I will first create a python script that reads in various user attributes as well as the severity of the crime that they committed and if they were found guilty or innocent of the crime. After the script is done analysing the data it will draw conclusions and make predictions on which attributes of a person is correlated to more crime. The purpose of this simulation is to feed the algorithm various data sets and examine how the algorithm learns differently based on the data it is being fed. I plan to feed the algorithm various kinds of data with different levels of biases. 
 
-In the technical industry, real life algorithms use data like this to make real world decisions which means that its very important that we feed the algorithms data that is inclusive and nonbiased. 
+In the technical industry, real life algorithms use data like this to make real world decisions which means that its very important that we feed the algorithms data that is inclusive and nonbiased. To create an accurate simulation, I needed multiple data sets of various sizes and attributes. These data sets will be purposelly manipulated to be generated with some biases included in them. Then we will run the analysis script on the generated data to similuate a machine learning algorithm being fed data. Afterwards we will view the conclusion that the machine was able to come to after reading in each data set.
+
+In order to create a lot of varying data in an efficient manner, I created the "generate_list.py file". This allows me to dynamically create a list of any size while also making it very easy to modify the attributes and data values that are generated.
 
 _______________________________________________________________________________________________
 
