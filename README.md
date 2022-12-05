@@ -31,6 +31,7 @@ Creating the "generate_list.py" file
 The Following Script creates a csv file populated with X amount of people of varying attributes
 
 First we import packages as these are needed for various library functions that are used in the script
+
 Then we Initialize a list of attribute names to be used in the list creation 
 The size variable indicates the amount of people to be generated (more people = larger file size)
 
@@ -44,9 +45,10 @@ For example, attr6 = ["Guilty","Guilty","Guilty","Innocent"] would yield a 75% c
 
 ![image](https://user-images.githubusercontent.com/78882341/205675405-7ad492d6-7528-4be2-ba79-4b5c9207a2dc.png)
 
-Creating the file
-The person's name is generated from three text files: females.txt,males.txt,and lastnames.txt
-These lists contain thousands of random names for the script to choose from
+Creating the file...
+
+The person's name is generated from three text files: females.txt,males.txt,and lastnames.txt.
+These lists contain thousands of random names for the script to choose from.
 
 ![image](https://user-images.githubusercontent.com/78882341/205675960-f989678c-104c-4cb2-855f-2fe1014ba06a.png)
 
@@ -71,6 +73,8 @@ the attributes and creating a single "human"
 Indicator which will output a progress message for every 50 humans generated
 
 ![image](https://user-images.githubusercontent.com/78882341/205677410-6a3a953d-c94d-427c-a7ee-4929deaa26af.png)
+
+_______________________________________________________________________________________________
 
 Final output messages...
 
