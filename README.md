@@ -26,8 +26,17 @@ ________________________________________________________________________________
 
 Creating the "generate_list.py" file
 
+The Following Script creates a csv file populated with X amount of people of varying attributes
+
+First we import packages as these are needed for various library functions that are used in the script
 
 ![image](https://user-images.githubusercontent.com/78882341/205674761-8698d6a5-b7fe-4147-bee2-58f27c95481a.png)
+
+Then we Initialize a list of attribute names to be used in the list creation 
+The size variable indicates the amount of people to be generated (more people = larger file size)
+
+
+![image](https://user-images.githubusercontent.com/78882341/205675405-7ad492d6-7528-4be2-ba79-4b5c9207a2dc.png)
 
 
 
