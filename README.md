@@ -61,7 +61,8 @@ Randomly choose if the generated person is male or female and assign the correct
 
 ![image](https://user-images.githubusercontent.com/78882341/205676614-59e5cb9b-2e51-4d9b-a48b-4541d74dac84.png)
 
-Create one row with the generate name and a random attribute from the attribute list
+Create one row with the generated name and a random attribute from the attribute list. This is essentially piecing together
+the attributes and creating a single "human"
 
 ![image](https://user-images.githubusercontent.com/78882341/205677223-bd4c6b02-6071-4635-80b1-3db4808f5fc1.png)
 
