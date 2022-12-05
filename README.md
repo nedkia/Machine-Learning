@@ -61,7 +61,11 @@ Choose a random Female, Male and Last name
 Randomly choose if the generated person is male or female and assign the correct name accordingly
 ![image](https://user-images.githubusercontent.com/78882341/205676793-9f65f6d0-6e8e-4660-b98e-26c369087d38.png)
 
+Create one row with the generate name and a random attribute from the attribute list
+![image](https://user-images.githubusercontent.com/78882341/205677223-bd4c6b02-6071-4635-80b1-3db4808f5fc1.png)
 
+Indicator which will output a progress message for every 50 humans generated
+![image](https://user-images.githubusercontent.com/78882341/205677410-6a3a953d-c94d-427c-a7ee-4929deaa26af.png)
 
-
-
+#Final output messages...
+![image](https://user-images.githubusercontent.com/78882341/205677539-1f038eeb-00f3-44a7-9204-45b2db8e2f22.png)
