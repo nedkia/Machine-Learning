@@ -42,9 +42,6 @@ For example, attr6 = ["Guilty","Guilty","Guilty","Innocent"] would yield a 75% c
 
 ![image](https://user-images.githubusercontent.com/78882341/205675405-7ad492d6-7528-4be2-ba79-4b5c9207a2dc.png)
 
-![image](https://user-images.githubusercontent.com/78882341/205676353-92135882-4903-4c76-839d-2915c71ac831.png)
-
-
 Creating the file
 The person's name is generated from three text files: females.txt,males.txt,and lastnames.txt
 These lists contain thousands of random names for the script to choose from
@@ -53,21 +50,23 @@ These lists contain thousands of random names for the script to choose from
 
 This loop will run for each person that needs to be created, 500 people = 500 loops
 
-![image](https://user-images.githubusercontent.com/78882341/205676506-080a7e06-b79e-47fc-a07e-598993282bc9.png)
+![image](https://user-images.githubusercontent.com/78882341/205676353-92135882-4903-4c76-839d-2915c71ac831.png)
+
 
 Choose a random Female, Male and Last name
 
-![image](https://user-images.githubusercontent.com/78882341/205676614-59e5cb9b-2e51-4d9b-a48b-4541d74dac84.png)
+![image](https://user-images.githubusercontent.com/78882341/205676506-080a7e06-b79e-47fc-a07e-598993282bc9.png)
 
 Randomly choose if the generated person is male or female and assign the correct name accordingly
 
-![image](https://user-images.githubusercontent.com/78882341/205676793-9f65f6d0-6e8e-4660-b98e-26c369087d38.png)
+![image](https://user-images.githubusercontent.com/78882341/205676614-59e5cb9b-2e51-4d9b-a48b-4541d74dac84.png)
 
 Create one row with the generate name and a random attribute from the attribute list
 
 ![image](https://user-images.githubusercontent.com/78882341/205677223-bd4c6b02-6071-4635-80b1-3db4808f5fc1.png)
 
 Indicator which will output a progress message for every 50 humans generated
+
 ![image](https://user-images.githubusercontent.com/78882341/205677410-6a3a953d-c94d-427c-a7ee-4929deaa26af.png)
 
 #Final output messages...
