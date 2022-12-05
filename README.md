@@ -52,6 +52,7 @@ These lists contain thousands of random names for the script to choose from
 ![image](https://user-images.githubusercontent.com/78882341/205675960-f989678c-104c-4cb2-855f-2fe1014ba06a.png)
 
 This loop will run for each person that needs to be created, 500 people = 500 loops
+
 ![image](https://user-images.githubusercontent.com/78882341/205676506-080a7e06-b79e-47fc-a07e-598993282bc9.png)
 
 Choose a random Female, Male and Last name
@@ -59,9 +60,11 @@ Choose a random Female, Male and Last name
 ![image](https://user-images.githubusercontent.com/78882341/205676614-59e5cb9b-2e51-4d9b-a48b-4541d74dac84.png)
 
 Randomly choose if the generated person is male or female and assign the correct name accordingly
+
 ![image](https://user-images.githubusercontent.com/78882341/205676793-9f65f6d0-6e8e-4660-b98e-26c369087d38.png)
 
 Create one row with the generate name and a random attribute from the attribute list
+
 ![image](https://user-images.githubusercontent.com/78882341/205677223-bd4c6b02-6071-4635-80b1-3db4808f5fc1.png)
 
 Indicator which will output a progress message for every 50 humans generated
