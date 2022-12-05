@@ -22,4 +22,12 @@ I will first create a python script that reads in various user attributes as wel
 
 In the technical industry, real life algorithms use data like this to make real world decisions which means that its very important that we feed the algorithms data that is inclusive and nonbiased. 
 
+_______________________________________________________________________________________________
+
+Creating the "generate_list.py" file
+
+
+![image](https://user-images.githubusercontent.com/78882341/205674761-8698d6a5-b7fe-4147-bee2-58f27c95481a.png)
+
+
 
