@@ -1,28 +1,29 @@
 import random
 import csv
-  
+import time
+
 # field names 
-fields = ['First Name','Last Name','Sex','Race', 'Age','Hair Color', 'Severity of Crime','Veredict'] 
+fields = ['FIRST NAME','LAST NAME','SEX','RACE', 'AGE','HAIR COLOR',  'SEVERITY OF CRIME','VEREDICT'] 
     
 # data rows of csv file 
 size = input("input amount of people you want to generate\n")
 counter = 0
 
-attr1 = ["Man","Women","Man"]
+attr1 = ["Man","Man"]
 attr3 = ["Middle Aged","Teenager","Middle Aged","Teenager","Old","Child"]
-attr4 = ["Brown","Brown","Blonde","Blonde","Redhead"]
-attr2 = ["Black","Hispanic","White"]
-attr5 = ["Petty","Infractions","Misdemeanor","Felony"]
-attr6 = ["Guilty","Innocent"]
+attr4 = ["Brown","Blonde","Black"]
+attr2 = ["Black","Hispanic","Black"]
+attr5 = ["Felony","Infractions","Petty"]
+attr6 = ["Guilty","Guilty"]
 
-with open('data', 'w') as f:  
+with open('data.csv', 'w') as f:  
     femaleNames = open('females.txt').read().splitlines()
     maleNames = open('males.txt').read().splitlines() 
     lastNames = open('lastnames.txt').read().splitlines()
     write = csv.writer(f)
     write.writerow(fields)
     while(counter < int(size)):
-        fname =random.choice(femaleNames)
+        fname = random.choice(femaleNames)
         mname = random.choice(maleNames)
         lname = random.choice(lastNames)
         attr0 = [fname,mname]
@@ -34,5 +35,9 @@ with open('data', 'w') as f:
             sex = "Male"
         rows = [ [name, lname,sex,random.choice(attr2), random.choice(attr3), random.choice(attr4),random.choice(attr5),random.choice(attr6)]]   
         write.writerows(rows)
+        if counter % 50 == 0:
+            print("Generating " + str(counter) + " Humans")
+            time.sleep(0.2)
         counter = counter + 1
-
+    print("Generating " + str(size) + " Humans")    
+    print("Humans Successfully Generated!")
