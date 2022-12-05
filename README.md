@@ -42,9 +42,15 @@ For example, attr6 = ["Guilty","Guilty","Guilty","Innocent"] would yield a 75% c
 
 ![image](https://user-images.githubusercontent.com/78882341/205675405-7ad492d6-7528-4be2-ba79-4b5c9207a2dc.png)
 
+![image](https://user-images.githubusercontent.com/78882341/205676353-92135882-4903-4c76-839d-2915c71ac831.png)
+
+
 Creating the file
 The person's name is generated from three text files: females.txt,males.txt,and lastnames.txt
 These lists contain thousands of random names for the script to choose from
 
 ![image](https://user-images.githubusercontent.com/78882341/205675960-f989678c-104c-4cb2-855f-2fe1014ba06a.png)
+
+This loop will run for each person that needs to be created, 500 people = 500 loops
+![Uploading image.png…]()
 
