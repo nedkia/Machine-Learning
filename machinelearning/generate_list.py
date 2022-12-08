@@ -20,12 +20,11 @@ counter = 0
 # The frequency of how many options are in each list determine how likely each attribute will be assigned to a person
 # For example, attr6 = ["Guilty","Guilty","Guilty","Innocent"] would yield a 75% chance that a generated person would be "Guilty"
 
-attr1 = ["Man","Man"]
-attr3 = ["Middle Aged","Teenager","Middle Aged","Teenager","Old","Child"]
-attr4 = ["Brown","Black"]
-attr2 = ["Black","Hispanic","Black"]
-attr5 = ["Felony","Infractions","Misdemeanor","Felony"]
-attr6 = ["Guilty","Guilty","Guily","Innocent"]
+attr1 = ["White","Hispanic","Black"]
+attr2 = ["Middle Aged","Teenager","Middle Aged","Teenager","Old","Child"]
+attr3 = ["Brown","Black"]
+attr4 = ["Felony","Infractions","Misdemeanor","Felony"]
+attr5 = ["Guilty","Guilty","Guily","Innocent"]
 
 
 #Creating the file
@@ -57,7 +56,7 @@ with open('data.csv', 'w') as f:
             sex = "Male"
 
         #Create one row with the generate name and a random attribute from the attribute list
-        rows = [ [name, lname,sex,random.choice(attr2), random.choice(attr3), random.choice(attr4),random.choice(attr5),random.choice(attr6)]]   
+        rows = [ [name, lname,sex,random.choice(attr1), random.choice(attr2), random.choice(attr3),random.choice(attr4),random.choice(attr5)]]   
         write.writerows(rows)
         
         #Indicator which will output a progress message for every 50 humans generated
@@ -66,4 +65,4 @@ with open('data.csv', 'w') as f:
             time.sleep(0.2)
         counter = counter + 1
     print("Generating " + str(size) + " Humans")    
-    print("Humans Successfully Generated!")
+    print("Humans Successfully Generated!") 
