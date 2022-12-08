@@ -97,10 +97,6 @@ We store the data into a Dictionary, with each row being an individual human gen
 
 
 
-![image](https://user-images.githubusercontent.com/78882341/205707543-44c88ad7-40da-4e15-a39a-98a887b1f4be.png)
-
-
-
 Creating the Algorithm...
 
 This Algorithm first iterates through the data that was generated and populated into a list.
