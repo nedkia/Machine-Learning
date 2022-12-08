@@ -103,5 +103,16 @@ We store the data into a Dictionary, with each row being an individual human gen
 
 Creating the Algorithm...
 
+This Algorithm first iterates through the data that was generated and populated into a list.
+
+It then analyzes each index of the list which is correlated to a single human and there associated attributes.
+
+We record each race and then determine if they were found guilty or not. After the veredict is determined we also record
+the sex of the person and record it in order to generate our results.
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/78882341/206539593-3f2f0f5b-b3b7-47a5-b0d5-63eb5367d8c3.png)
 
