@@ -44,8 +44,6 @@ The frequency of how many options are in each list determine how likely each att
 For example, attr6 = ["Guilty","Guilty","Guilty","Innocent"] would yield a 75% chance that a generated person would be "Guilty"
 
 ![image](https://user-images.githubusercontent.com/78882341/206538577-6f2dfe22-1f6d-4211-a234-fb3a33ac4249.png)
-![image](https://user-images.githubusercontent.com/78882341/206538577-6f2dfe22-1f6d-4211-a234-fb3a33ac4249.png)
-![image](https://user-images.githubusercontent.com/78882341/206538577-6f2dfe22-1f6d-4211-a234-fb3a33ac4249.png)
 
 
 Creating the file...
