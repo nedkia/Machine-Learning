@@ -101,4 +101,7 @@ We store the data into a Dictionary, with each row being an individual human gen
 
 
 
+Creating the Algorithm...
+
+![image](https://user-images.githubusercontent.com/78882341/206539593-3f2f0f5b-b3b7-47a5-b0d5-63eb5367d8c3.png)
 
