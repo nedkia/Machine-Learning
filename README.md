@@ -140,8 +140,10 @@ Analysis results:
 ![image](https://user-images.githubusercontent.com/78882341/206748596-adb32362-3a8b-44aa-8c69-70a287908f97.png)
 
 
+Running the same attribute data with a sample size of 5 gives different results
 
 
+![image](https://user-images.githubusercontent.com/78882341/206752575-5d5e57bc-c62c-4715-b128-f9d4949c12be.png)
 
 
 
