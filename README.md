@@ -148,7 +148,8 @@ Running the same attribute data with a sample size of 5 gives different results
 
 A sample size of 20,000 also gives different results with the same attribute data
 
-![image](https://user-images.githubusercontent.com/78882341/206753498-3212425a-427c-49fc-849e-b2a0611caea4.png)
+![image](https://user-images.githubusercontent.com/78882341/206753758-8e53432c-b25d-4794-836c-4f593412a990.png)
+
 
 ![image](https://user-images.githubusercontent.com/78882341/206753617-2e11c824-67bb-4bd4-be99-65f3178bb3c2.png)
 
