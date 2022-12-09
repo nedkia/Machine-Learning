@@ -112,3 +112,15 @@ the sex of the person and record it in order to generate our results.
 
 ![image](https://user-images.githubusercontent.com/78882341/206539593-3f2f0f5b-b3b7-47a5-b0d5-63eb5367d8c3.png)
 
+
+Output:
+
+
+
+
+
+
+
+
+
+
