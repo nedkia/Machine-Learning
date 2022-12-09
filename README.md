@@ -178,3 +178,9 @@ Count: 5000
 
 
 
+
+Results/Open Source Policy
+
+These scripts show how a machine learning algorithm can have drastically different results based on the data and algorithm it uses. Although this was a simple simulation, real world examples tend to mimic similar issues with there biases in algorithms. We were also able to see that the sample size of data also changed the machine learning outcome, which is important to understand beceause if someone is designing software for the public, they need to take into account millions of people and not just a couple thousand.
+
+This entire project was created to research bias and allow non technical people to understand how bias in machine learning works. Anyone is allowed to expand upon this project as long as they continue to abide by open source policies and keep it open source.
