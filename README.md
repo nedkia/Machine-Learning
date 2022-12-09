@@ -113,14 +113,15 @@ the sex of the person and record it in order to generate our results.
 ![image](https://user-images.githubusercontent.com/78882341/206539593-3f2f0f5b-b3b7-47a5-b0d5-63eb5367d8c3.png)
 
 
+More analysis...
+
+
+![image](https://user-images.githubusercontent.com/78882341/206747302-7228789a-f429-4d63-b4f7-8524cfa4d076.png)
+
+
+
+
+
 Output:
-
-
-
-
-
-
-
-
 
 
