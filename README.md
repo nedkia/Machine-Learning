@@ -163,8 +163,18 @@ Sample output #2 Hispanic Bias
 
 This sample output of 5000 people shows that by tweaking the data being fed into the machine learning algorithm, we can drastically change the results.
 
-![image](https://user-images.githubusercontent.com/78882341/206768824-89c4dd60-3261-478d-80c5-524ff87034da.png)
+![image](https://user-images.githubusercontent.com/78882341/206769131-aa4d1d56-10f8-4214-b69d-2df53e50627f.png)
 
+
+Sample output #3 Female bias 
+
+The same works by manipulating the gender variable
+
+Count: 5000
+
+![image](https://user-images.githubusercontent.com/78882341/206769374-14c5a56d-36be-4933-8f7c-4a46abfd0060.png)
+
+![image](https://user-images.githubusercontent.com/78882341/206772234-669dc3d4-56ae-4179-9fcb-18c54dc75be3.png)
 
 
 
