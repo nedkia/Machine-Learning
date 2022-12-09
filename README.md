@@ -127,7 +127,7 @@ Sample Output #1 (relatively nonbiased data)
 
 Atrributes
 
-![image](https://user-images.githubusercontent.com/78882341/206748236-08c07fdc-55db-4a30-87c2-21dac4112a7c.png)
+![image](https://user-images.githubusercontent.com/78882341/206750913-cff96e62-c8c7-4041-ae1e-50f4a2a65d5d.png)
 
 
 Sample Size: 1000
