@@ -122,6 +122,30 @@ More analysis...
 
 
 
-Output:
+Sample Output #1 
+
+
+Atrributes
+![image](https://user-images.githubusercontent.com/78882341/206748236-08c07fdc-55db-4a30-87c2-21dac4112a7c.png)
+
+
+Sample Size: 1000
+
+
+![image](https://user-images.githubusercontent.com/78882341/206748450-8f318767-ba9a-40d8-b07e-aab674e25f0c.png)
+
+Analysis results:
+
+![image](https://user-images.githubusercontent.com/78882341/206748596-adb32362-3a8b-44aa-8c69-70a287908f97.png)
+
+
+
+
+
+
+
+
+
+
 
 
