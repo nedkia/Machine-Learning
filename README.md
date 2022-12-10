@@ -154,7 +154,7 @@ A sample size of 20,000 also gives different results with the same attribute dat
 ![image](https://user-images.githubusercontent.com/78882341/206753617-2e11c824-67bb-4bd4-be99-65f3178bb3c2.png)
 
 
-This analysis shows that the data sample size is imporatant when trying to make accurate judgements. More data = More accuracy.
+This analysis shows that the data sample size is important when trying to make accurate judgements. More data = More accuracy.
 
 
 Sample output #2 Hispanic Bias
